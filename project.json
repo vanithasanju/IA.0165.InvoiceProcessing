@@ -1,5 +1,5 @@
 {
-  "name": "IA.0165.InvoiceProcessing",
+  "name": "IA.0165.InvoiceProcessing_Dispatcher",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
